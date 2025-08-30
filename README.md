@@ -31,7 +31,7 @@ Caitlin <command> [args]
 | target | `target <t\|TargetName>` | Target your current or a named target |
 | emote | `emote <name>` | Perform any emote |
 | atease | `atease` | Perform `/atease` (usually `/embrace`) |
-| strip | `strip [part]` | Apply glamour preset to remove gear (full if empty) |
+| _strip | `_strip [part]` | Apply glamour preset to remove gear (full if empty) |
 | _color | `_color <variant>` | Dye current outfit |
 | _disableAnimation | `_disableAnimation` | Disable emote animations |
 | _noShoes | `_noShoes` | Same as `_strip shoes` |
