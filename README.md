@@ -131,6 +131,7 @@ Presets referenced by commands:
 - `_catsuit1`
 - `_catsuit2`
 - `_catsuit3`
+- `_latexdress`
 - `_comfy`
 - `_comfy2`
 - `_comfylatex`
@@ -145,7 +146,7 @@ Presets referenced by commands:
 
 #### Outfit Showcases
 
-(Each outfit includes preview placeholders — replace with actual screenshots in `pics/screenshots/`.)
+(This is still work in progress, so not much to see here yet ><.)
 
 <details id="bikini">
 <summary><code>_bikini</code> / <code>_bikini1</code></summary>
@@ -383,13 +384,13 @@ Cait _reset strip
 
 ### Pose (Amborella)
 
-*(Commands will be listed here as we parse the scripts.)*
+*(Commands will be listed here soon.)*
 
 ---
 
 ### Animations (Nightlife V3)
 
-*(Commands will be listed here as we parse the scripts.)*
+*(Commands will be listed here soon.)*
 
 ---
 
