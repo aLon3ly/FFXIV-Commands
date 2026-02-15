@@ -41,16 +41,8 @@ Caitlin <command> [args]
 ---
 
 ## A–Z Index
-
-**A**: [atease](#atease)  
-**C**: [_color](#color)  
-**D**: [_disableAnimation](#disableanimation)  
-**E**: [emote](#emote)  
-**N**: [_noShoes](#noshoes), [_nude](#nude)  
-**R**: [_reset](#reset)  
-**S**: [strip](#strip), [_strip](#strip-1)  
-**T**: [target](#target)
-
+<wip>
+  
 ---
 
 ## Command Categories
