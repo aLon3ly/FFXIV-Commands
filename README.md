@@ -29,9 +29,9 @@ Caitlin <command> [args]
 | Command | Syntax | Short description |
 |---|---|---|
 | target | `target <t\|TargetName>` | Target your current or a named target |
-| emote | `emote <name>` | Perform any emote |
-| atease | `atease` | Perform `/atease` (usually `/embrace`) |
-| _strip | `_strip [part]` | Apply glamour preset to remove gear (full if empty) |
+| any emote command | `<emotename>` | Perform any emote like `Cait gsit` |
+| atease | `atease` | Cait Hugs her current target (usually `/embrace`) |
+| _strip | `_strip [part]` | Strips to remove gear (everything if nothing specified) |
 | _color | `_color <variant>` | Dye current outfit |
 | _disableAnimation | `_disableAnimation` | Disable emote animations |
 | _noShoes | `_noShoes` | Same as `_strip shoes` |
@@ -41,7 +41,8 @@ Caitlin <command> [args]
 ---
 
 ## A–Z Index
-<wip>
+
+Coming soon(tm)
   
 ---
 
@@ -126,6 +127,7 @@ Presets referenced by commands:
 - `_bunny`
 - `_casual`
 - `_casual2`
+- `_whm`
 - `_catsuit1`
 - `_catsuit2`
 - `_catsuit3`
